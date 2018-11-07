@@ -4,7 +4,7 @@
 
 ## Introdução
 
-O presente repositório se destina ao armazenamento das entregas de pesquisa programadas para o período de março de 2017 a fevereiro de 2018, no contexto de estágio pós-doutoral em andamento no Departamento de Engenharia Elétrica da Universidade de Brasília sob a supervisão do Prof. Dr. Francisco Assis de Oliveira Nascimento. O estudo propõe a construção de algoritmos computacionais capazes de extrair informações dos aspectos estruturais do discurso parlamentar, de forma a se produzir conhecimento sobre a dinâmica do Processo Legislativo e sobre a tendência do discurso no contexto temporal. Esse conhecimento pode contribuir para a compreensão das orientações políticas e seus desdobramentos.
+O presente repositório se destina ao armazenamento das entregas de pesquisa programadas para o período de março de 2017 a fevereiro de 2018, no contexto de estágio pós-doutoral realizado no Departamento de Engenharia Elétrica da Universidade de Brasília sob a supervisão do Prof. Dr. Francisco Assis de Oliveira Nascimento. O estudo propõe a construção de algoritmos computacionais capazes de extrair informações dos aspectos estruturais do discurso parlamentar, de forma a se produzir conhecimento sobre a dinâmica do Processo Legislativo e sobre a tendência do discurso no contexto temporal. Esse conhecimento pode contribuir para a compreensão das orientações políticas e seus desdobramentos.
 
 ## Problema de Pesquisa
 
