@@ -44,3 +44,7 @@ Nov/2017| Estudo da distribuição de probabilidades dos temas, teste qui-quadra
 Dez/2017| Análise de *collocations*, similaridade do discurso e aprendizagem de máquina
 Jan/2018| Elaboração do relatório de pesquisa
 Fev/2018| Elaboração do relatório de pesquisa
+
+## Relatório de pesquisa de estágio pós-doutoral
+
+[ANÁLISE DO DISCURSO PARLAMENTAR POR MEIO DA TÉCNICA DO PROCESSAMENTO DE LINGUAGEM NATURAL: ABORDAGEM ESTATÍSTICA E APRENDIZAGEM DE MÁQUINA](http://bd.camara.gov.br/bd/handle/bdcamara/35719)
